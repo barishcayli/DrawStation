@@ -14,7 +14,7 @@ Bu proje tren diagramı çizilmesi için yardımcı bir uygulamadır. Bir diagra
 ## ✨Tanıtım
 
 - Diagram çiziminde eklenecek olan nesne eklendikten sonra kaydırılarak yerleştirilebilir ve istenilen şekilde diagram çizilebilir. Çizim bittikten sonra kaydet dediğimizde veri tabanına kaydedilir ve daha sonrasında kullanılmak üzere ya da değişiklik yapılmak üzere saklanır.
-- 
+  
 ![image](https://github.com/user-attachments/assets/07876ce1-1f3d-4d4b-a323-d2ec06e9e31a)
 
 - Örnek bir makas aşağıda ki gibi özellikleri girilir ve ekrana eklenir ardından kaydırma işlemleri ile yerleştirilir.
