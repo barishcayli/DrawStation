@@ -1,4 +1,4 @@
-## 🎨DrawStation
+![image](https://github.com/user-attachments/assets/272788b5-b64f-4b49-b34a-1e563208e2ae)## 🎨DrawStation
 
 Bu proje tren diagramı çizilmesi için yardımcı bir uygulamadır. Bir diagrama eklenecek her şey bulunmaktadır (Track, Point, AutomaticBlock, Signal, Station). Çizilen diagram konumlarına göre veri tabanına kaydedilmektedir. Diagram çizmek için her bir nesne özellikleri seçilerek ayrı ayrı eklenir ve bunlar kaydırılabilir konumları, özellikleri değiştirilebilir şekildedir.
 
@@ -33,7 +33,22 @@ Lombok
 ![image](https://github.com/user-attachments/assets/023072f3-fa63-44d3-b188-73166fc55108)
 
 - İstasyon filtreleme ile istenilen istasyon tek görüntülenebilir ya da düzenlenebilir.
-- ![image](https://github.com/user-attachments/assets/a0708fce-b9ce-412f-b878-7cb61e2d61e9)
+ ![image](https://github.com/user-attachments/assets/a0708fce-b9ce-412f-b878-7cb61e2d61e9)
+
+- Her bir nesnenin kendine ait listesi bulunmaktadır.
+  ![image](https://github.com/user-attachments/assets/e96ce259-b312-457a-ab1b-b28f6d6a1711)
+
+- Nesnelerin birbirlerine olan bağlantılarını senkronize etmek için bir buton bulunmaktadır. Bu butona basıldığında görselde birbirine bağlı olan nesnelerin önceki, sonraki ve reverse özellikleri doldurulur yani bağlanır.
+- ![image](https://github.com/user-attachments/assets/7821968a-d6ae-4dc7-a5e7-b3b3b1bcf020)
+
+ ## Genel
+
+ Bu proje benim staj sürecimde geliştirdiğim projelerden birisidir. Savronik bünyesinde kullanılmak üzere geliştirdiğim bu projeyi uzun yıllar kullanıma hazır hale getirdim. Backend için Spring kullandım ve frontend ile iletişimi için api kullandım. Yapılmak istenen işlem(CRUD, Senkronize işlemleri, Filtreleme vs.) api ile bildiriliyor ve buna göre bir geri dönüş sağlanarak kullanıcıya yansıtılmaktadır.
+
+ ## Nisan 2025 - Mayıs 2025
+
+ ## Barış Çaylı
+
 
 
 
