@@ -32,7 +32,13 @@ Lombok
 - Çizilen diagramda konumları daha kolay belirleyebilmek için çizgiler ekleyebiliriz bu sayede çizilen nesnelerin düzlemi daha kolay belirlenir.
 ![image](https://github.com/user-attachments/assets/023072f3-fa63-44d3-b188-73166fc55108)
 
- 
+- İstasyon filtreleme ile istenilen istasyon tek görüntülenebilir ya da düzenlenebilir.
+- ![image](https://github.com/user-attachments/assets/a0708fce-b9ce-412f-b878-7cb61e2d61e9)
+
+
+
+
+
 
  
 
