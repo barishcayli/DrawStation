@@ -1,8 +1,8 @@
-## 🎨DrawStation
+## DrawStation
 
 Bu proje tren diagramı çizilmesi için yardımcı bir uygulamadır. Bir diagrama eklenecek her şey bulunmaktadır (Track, Point, AutomaticBlock, Signal, Station). Çizilen diagram konumlarına göre veri tabanına kaydedilmektedir. Diagram çizmek için her bir nesne özellikleri seçilerek ayrı ayrı eklenir ve bunlar kaydırılabilir konumları, özellikleri değiştirilebilir şekildedir.
 
-## 🧰 Kullanılan Teknolojiler
+##  Kullanılan Teknolojiler
 
 - Java
 - Spring Boot Framework
@@ -11,7 +11,7 @@ Bu proje tren diagramı çizilmesi için yardımcı bir uygulamadır. Bir diagra
 - Hibernate
 - Lombok
 
-## ✨Tanıtım
+## Tanıtım
 
 - Diagram çiziminde eklenecek olan nesne eklendikten sonra kaydırılarak yerleştirilebilir ve istenilen şekilde diagram çizilebilir. Çizim bittikten sonra kaydet dediğimizde veri tabanına kaydedilir ve daha sonrasında kullanılmak üzere ya da değişiklik yapılmak üzere saklanır.
   
