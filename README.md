@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/272788b5-b64f-4b49-b34a-1e563208e2ae)## 🎨DrawStation
+## 🎨DrawStation
 
 Bu proje tren diagramı çizilmesi için yardımcı bir uygulamadır. Bir diagrama eklenecek her şey bulunmaktadır (Track, Point, AutomaticBlock, Signal, Station). Çizilen diagram konumlarına göre veri tabanına kaydedilmektedir. Diagram çizmek için her bir nesne özellikleri seçilerek ayrı ayrı eklenir ve bunlar kaydırılabilir konumları, özellikleri değiştirilebilir şekildedir.
 
