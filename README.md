@@ -4,12 +4,12 @@ Bu proje tren diagramı çizilmesi için yardımcı bir uygulamadır. Bir diagra
 
 ## 🧰 Kullanılan Teknolojiler
 
-Java
-Spring Boot Framework
-JavaFX
-PostgreSQL
-Hibernate
-Lombok
+- Java
+- Spring Boot Framework
+- JavaFX
+- PostgreSQL
+- Hibernate
+- Lombok
 
 ## ✨Tanıtım
 
